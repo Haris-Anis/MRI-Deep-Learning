@@ -1,4 +1,4 @@
-Deep Cascade of Convolutional Neural Networks and Convolutioanl Recurrent Nerual Networks for MR Image Reconstruction
+Deep Cascade of Convolutional Neural Networks and Convolutional Recurrent Neural Networks for MR Image Reconstruction
 
 =========================================================================
 
